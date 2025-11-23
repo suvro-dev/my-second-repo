@@ -2,3 +2,7 @@ div{
     background-color: tomato;
     margin-bottom: 20px;
    padding: 10px;
+}
+p{
+   background-size: 20px contain; 
+}
