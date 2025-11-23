@@ -3,6 +3,10 @@ div{
     margin-bottom: 20px;
    padding: 10px;
 }
-p{
-   background-size: 20px contain; 
+.pi{
+    background-color: aqua;
+    background-repeat: repeat-x;
+}
+img{
+ 
 }
